@@ -1,0 +1,91 @@
+
+@media screen and (max-width: 450px) {
+
+.headerBox{
+  margin: auto;
+  width: 100%;
+  margin-top: 80%;
+  margin-bottom: 40%;
+}
+
+  .headerBox h1 {
+    font-size: 5.4rem;
+    font-weight: 300;
+    letter-spacing: .9rem;
+}
+
+.headerBox h2 {
+    font-size: 2.1rem;
+    font-weight: 800;
+    letter-spacing: .6rem;
+}
+
+.menu li {
+    display: none;
+    visibility: hidden;
+    pointer-events: none;
+    font-size: .1rem;
+    font-weight: 700;
+    letter-spacing: 0rem;
+    text-transform: uppercase;
+    display: inline-block;
+    transition: .6s;
+    vertical-align: top;
+}
+
+#text h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+#elenco h1 {
+    font-size: 4rem;
+}
+
+#text p {
+    font-size: 2.6rem;
+    font-weight: 300;
+    text-align: left;
+}
+
+.perks strong{
+    font-size: 2.6rem;
+    text-align: center;
+    align-items: center;
+
+}
+
+#lista h1 {
+    font-size: 4rem;
+}
+
+#lista a {
+    font-size: 4rem;
+}
+
+#lista li {
+    font-size: 2.5rem;
+}
+
+.expandable {
+    font-size: 2.5rem;
+}
+
+#lista a:hover {
+    font-size: 4rem;
+}
+
+svg {
+  width:116%;
+  margin-left: -8%;
+  margin-right: -8%;
+  
+}
+
+
+
+
+
+
+}

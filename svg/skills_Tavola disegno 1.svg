@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.46 283.46">
+  <defs>
+    <style>
+      .cls-1,
+      .cls-5 {
+        fill: #bd3827;
+      }
+      .cls-1 {
+        opacity: 0.4;
+      }
+      .cls-2,
+      .cls-3,
+      .cls-4 {
+        fill: none;
+        stroke: #2b2b2b;
+        stroke-miterlimit: 10;
+      }
+      .cls-2 {
+        stroke-width: 0.25px;
+      }
+      .cls-3 {
+        stroke-width: 0.5px;
+      }
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+      .cls-6 {
+        font-size: 9.35px;
+        fill: #1d1d1b;
+        font-family: Oswald-Bold, Oswald;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <title>skills</title>
+  <g id="Livello_5" data-name="Livello 5"><path class="cls-1" d="M143.71,242.09a98.54,98.54,0,0,0,49.49-13.27l-49.49-85.73-49.5,85.73A98.6,98.6,0,0,0,143.71,242.09Z"/><path class="cls-1" d="M143.71,44.08a98.51,98.51,0,0,0-49.5,13.28l49.5,85.73L193.2,57.36A98.44,98.44,0,0,0,143.71,44.08Z"/><path class="cls-1" d="M229.45,192.59a98.46,98.46,0,0,0,13.25-49.5h-99l49.49,85.73A98.55,98.55,0,0,0,229.45,192.59Z"/><path class="cls-1" d="M58,93.58a98.47,98.47,0,0,0-13.25,49.51h99L94.21,57.36A98.5,98.5,0,0,0,58,93.58Z"/><path class="cls-1" d="M229.45,93.58A98.52,98.52,0,0,0,193.2,57.36l-49.49,85.73h99A98.47,98.47,0,0,0,229.45,93.58Z"/><path class="cls-1" d="M58,192.59a98.53,98.53,0,0,0,36.24,36.23l49.5-85.73h-99A98.46,98.46,0,0,0,58,192.59Z"/></g>
+  <g id="Livello_6" data-name="Livello 6"><circle class="cls-2" cx="143.71" cy="143.09" r="59.4"/><circle class="cls-2" cx="143.71" cy="143.09" r="39.6"/><circle class="cls-2" cx="143.71" cy="143.09" r="79.2"/><circle class="cls-2" cx="143.71" cy="143.09" r="19.8"/><circle class="cls-3" cx="143.71" cy="143.09" r="99"/></g>
+  <g id="Livello_1" data-name="Livello 1"><line class="cls-4" x1="143.71" y1="63.88" x2="57.97" y2="93.58"/><line class="cls-4" x1="195.15" y1="113.38" x2="143.71" y2="63.88"/><line class="cls-4" x1="212.3" y1="182.69" x2="195.15" y2="113.38"/><line class="cls-4" x1="143.71" y1="202.49" x2="212.3" y2="182.69"/><line class="cls-4" x1="57.97" y1="192.59" x2="143.71" y2="202.49"/><line class="cls-4" x1="57.97" y1="93.58" x2="57.97" y2="192.59"/></g>
+  <g id="Livello_8" data-name="Livello 8"><line class="cls-3" x1="57.97" y1="93.58" x2="62.25" y2="96.06"/><line class="cls-3" x1="143.71" y1="44.08" x2="143.71" y2="49.03"/><line class="cls-3" x1="229.45" y1="93.58" x2="225.16" y2="96.06"/><line class="cls-3" x1="229.45" y1="192.59" x2="225.16" y2="190.11"/><line class="cls-3" x1="143.71" y1="242.09" x2="143.71" y2="237.14"/><line class="cls-3" x1="57.97" y1="192.59" x2="62.25" y2="190.11"/></g>
+  <g id="Livello_2" data-name="Livello 2"><circle class="cls-5" cx="212.3" cy="182.69" r="4.56"/><circle class="cls-5" cx="143.71" cy="202.49" r="4.56"/><circle class="cls-5" cx="195.15" cy="113.38" r="4.56"/><circle class="cls-5" cx="143.71" cy="63.88" r="4.56"/><circle class="cls-5" cx="57.97" cy="93.58" r="4.56"/><circle class="cls-5" cx="57.97" cy="192.59" r="4.56"/></g>
+  <g id="Livello_7" data-name="Livello 7">
+    <text class="cls-6" transform="matrix(0.75, 0.66, -0.66, 0.75, 210.98, 60.48)">P</text>
+    <text class="cls-6" transform="matrix(0.72, 0.69, -0.69, 0.72, 214.91, 63.88)">R</text>
+    <text class="cls-6" transform="translate(218.83 67.65) rotate(46.69)">O</text>
+    <text class="cls-6" transform="translate(222.54 71.58) rotate(49.56)">D</text>
+    <text class="cls-6" transform="translate(226.05 75.69) rotate(52.42)">U</text>
+    <text class="cls-6" transform="matrix(0.57, 0.82, -0.82, 0.57, 229.34, 79.97)">C</text>
+    <text class="cls-6" transform="translate(232.31 84.26) rotate(57.63)">T</text>
+    <text class="cls-6" transform="matrix(0.51, 0.86, -0.86, 0.51, 234.5, 87.74)"></text>
+    <text class="cls-6" transform="translate(235.72 89.73) rotate(61.31)">D</text>
+    <text class="cls-6" transform="translate(238.3 94.47) rotate(63.78)">E</text>
+    <text class="cls-6" transform="matrix(0.4, 0.91, -0.91, 0.4, 240.13, 98.17)">S</text>
+    <text class="cls-6" transform="matrix(0.37, 0.93, -0.93, 0.37, 241.97, 102.38)">I</text>
+    <text class="cls-6" transform="translate(243.04 104.94) rotate(70.17)">G</text>
+    <text class="cls-6" transform="translate(244.85 109.97) rotate(72.95)">N</text>
+    <text class="cls-6" transform="translate(246.36 114.94) rotate(75.43)">E</text>
+    <text class="cls-6" transform="matrix(0.21, 0.98, -0.98, 0.21, 247.41, 118.89)">R</text>
+    <text class="cls-6" transform="translate(107.06 41.22) rotate(-16.84)">M</text>
+    <text class="cls-6" transform="translate(113.27 39.35) rotate(-13.69)">O</text>
+    <text class="cls-6" transform="translate(118.47 38.1) rotate(-11.21)">T</text>
+    <text class="cls-6" transform="translate(122.5 37.31) rotate(-9.39)">I</text>
+    <text class="cls-6" transform="translate(125.22 36.83) rotate(-7.22)">O</text>
+    <text class="cls-6" transform="translate(130.59 36.15) rotate(-4.44)">N</text>
+    <text class="cls-6" transform="translate(135.75 35.77) rotate(-2.48)"></text>
+    <text class="cls-6" transform="translate(138.09 35.67) rotate(-0.93)">D</text>
+    <text class="cls-6" transform="translate(143.49 35.61) rotate(1.99)">E</text>
+    <text class="cls-6" transform="translate(147.61 35.75) rotate(4.31)">S</text>
+    <text class="cls-6" transform="matrix(0.99, 0.11, -0.11, 0.99, 152.21, 36.11)">I</text>
+    <text class="cls-6" transform="translate(154.95 36.38) rotate(8.35)">G</text>
+    <text class="cls-6" transform="translate(160.26 37.16) rotate(11.14)">N</text>
+    <text class="cls-6" transform="matrix(0.97, 0.24, -0.24, 0.97, 165.34, 38.17)">E</text>
+    <text class="cls-6" transform="translate(169.31 39.11) rotate(16.16)">R</text>
+    <text class="cls-6" transform="translate(33.71 132.61) rotate(-83.15)">I</text>
+    <text class="cls-6" transform="translate(34.02 129.87) rotate(-81.04)">N</text>
+    <text class="cls-6" transform="matrix(0.2, -0.98, 0.98, 0.2, 34.83, 124.78)">T</text>
+    <text class="cls-6" transform="translate(35.65 120.74) rotate(-76.39)">E</text>
+    <text class="cls-6" transform="translate(36.59 116.74) rotate(-73.82)">R</text>
+    <text class="cls-6" transform="translate(38.14 111.44) rotate(-71.01)">A</text>
+    <text class="cls-6" transform="translate(39.74 106.76) rotate(-68.37)">C</text>
+    <text class="cls-6" transform="translate(41.67 101.92) rotate(-65.91)">T</text>
+    <text class="cls-6" transform="translate(43.36 98.18) rotate(-64.11)">I</text>
+    <text class="cls-6" transform="matrix(0.47, -0.88, 0.88, 0.47, 44.54, 95.67)">O</text>
+    <text class="cls-6" transform="matrix(0.51, -0.86, 0.86, 0.51, 47.06, 90.92)">N</text>
+    <text class="cls-6" transform="translate(49.75 86.47) rotate(-57.29)"></text>
+    <text class="cls-6" transform="translate(50.98 84.49) rotate(-55.26)">D</text>
+    <text class="cls-6" transform="translate(54.08 80.04) rotate(-52.76)">E</text>
+    <text class="cls-6" transform="matrix(0.64, -0.77, 0.77, 0.64, 56.57, 76.76)">S</text>
+    <text class="cls-6" transform="translate(59.51 73.22) rotate(-48.5)">I</text>
+    <text class="cls-6" transform="translate(61.31 71.15) rotate(-46.35)">G</text>
+    <text class="cls-6" transform="matrix(0.72, -0.69, 0.69, 0.72, 65.02, 67.26)">N</text>
+    <text class="cls-6" transform="translate(68.77 63.71) rotate(-41.08)">E</text>
+    <text class="cls-6" transform="matrix(0.78, -0.62, 0.62, 0.78, 71.85, 61)">R</text>
+    <text class="cls-6" transform="translate(77.79 232.07) rotate(-142.9)">F</text>
+    <text class="cls-6" transform="matrix(-0.77, -0.64, 0.64, -0.77, 74.63, 229.71)">R</text>
+    <text class="cls-6" transform="translate(70.4 226.17) rotate(-138.21)">I</text>
+    <text class="cls-6" transform="matrix(-0.72, -0.69, 0.69, -0.72, 68.32, 224.33)">E</text>
+    <text class="cls-6" transform="matrix(-0.69, -0.72, 0.72, -0.69, 65.34, 221.51)">N</text>
+    <text class="cls-6" transform="matrix(-0.66, -0.75, 0.75, -0.66, 61.74, 217.78)">D</text>
+    <text class="cls-6" transform="translate(58.21 213.71) rotate(-128.6)">L</text>
+    <text class="cls-6" transform="matrix(-0.6, -0.8, 0.8, -0.6, 56.05, 211.03)">Y</text>
+    <text class="cls-6" transform="translate(53.39 207.42) rotate(-124.88)"></text>
+    <text class="cls-6" transform="translate(52.04 205.51) rotate(-123.2)">T</text>
+    <text class="cls-6" transform="translate(49.79 202.07) rotate(-121.06)">E</text>
+    <text class="cls-6" transform="translate(47.66 198.55) rotate(-118.67)">A</text>
+    <text class="cls-6" transform="translate(45.21 194.12) rotate(-115.66)">M</text>
+    <text class="cls-6" transform="translate(42.39 188.26) rotate(-112.26)">W</text>
+    <text class="cls-6" transform="translate(39.98 182.34) rotate(-109.15)">O</text>
+    <text class="cls-6" transform="translate(38.2 177.24) rotate(-106.25)">R</text>
+    <text class="cls-6" transform="translate(36.66 171.96) rotate(-103.41)">K</text>
+    <text class="cls-6" transform="matrix(-0.19, -0.98, 0.98, -0.19, 35.5, 167.03)">E</text>
+    <text class="cls-6" transform="translate(34.69 163.01) rotate(-98.46)">R</text>
+    <text class="cls-6" transform="translate(174.51 247.85) rotate(164.21)">M</text>
+    <text class="cls-6" transform="translate(168.24 249.61) rotate(167.29)">A</text>
+    <text class="cls-6" transform="matrix(-0.98, 0.17, -0.17, -0.98, 163.36, 250.71)">K</text>
+    <text class="cls-6" transform="translate(158.36 251.59) rotate(172.37)">E</text>
+    <text class="cls-6" transform="translate(154.3 252.15) rotate(174.9)">R</text>
+    <text class="cls-6" transform="translate(148.8 252.61) rotate(176.95)"></text>
+    <text class="cls-6" transform="translate(146.48 252.77) rotate(179.07)">W</text>
+    <text class="cls-6" transform="translate(140.24 252.85) rotate(-177.89)">A</text>
+    <text class="cls-6" transform="matrix(-1, -0.08, 0.08, -1, 135.24, 252.67)">N</text>
+    <text class="cls-6" transform="translate(130.08 252.25) rotate(-172.53)">N</text>
+    <text class="cls-6" transform="translate(124.96 251.58) rotate(-169.83)">A</text>
+    <text class="cls-6" transform="translate(120.03 250.7) rotate(-167.08)">B</text>
+    <text class="cls-6" transform="matrix(-0.96, -0.27, 0.27, -0.96, 114.74, 249.47)">E</text>
+    <text class="cls-6" transform="translate(248.09 166.51) rotate(103.3)">D</text>
+    <text class="cls-6" transform="matrix(-0.27, 0.96, -0.96, -0.27, 246.83, 171.76)">I</text>
+    <text class="cls-6" transform="matrix(-0.3, 0.95, -0.95, -0.3, 246.12, 174.43)">G</text>
+    <text class="cls-6" transform="matrix(-0.34, 0.94, -0.94, -0.34, 244.47, 179.55)">I</text>
+    <text class="cls-6" transform="translate(243.54 182.16) rotate(111.61)">T</text>
+    <text class="cls-6" transform="translate(242.18 185.65) rotate(113.84)">A</text>
+    <text class="cls-6" transform="translate(240.13 190.25) rotate(116.22)">L</text>
+    <text class="cls-6" transform="matrix(-0.47, 0.88, -0.88, -0.47, 238.36, 193.83)"></text>
+    <text class="cls-6" transform="translate(237.26 195.9) rotate(119.07)">A</text>
+    <text class="cls-6" transform="translate(234.8 200.27) rotate(122.5)">R</text>
+    <text class="cls-6" transform="matrix(-0.57, 0.82, -0.82, -0.57, 231.87, 204.86)">T</text>
+    <text class="cls-6" transform="matrix(-0.6, 0.8, -0.8, -0.6, 229.5, 208.22)"></text>
+    <text class="cls-6" transform="matrix(-0.63, 0.78, -0.78, -0.63, 228.12, 210.12)">G</text>
+    <text class="cls-6" transform="matrix(-0.66, 0.75, -0.75, -0.66, 224.76, 214.3)">E</text>
+    <text class="cls-6" transform="translate(222.03 217.41) rotate(133.4)">E</text>
+    <text class="cls-6" transform="translate(219.23 220.4) rotate(135.88)">K</text>
+  </g>
+</svg>
